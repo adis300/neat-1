@@ -1,1 +1,7 @@
+# OS data
 .DS_Store
+
+# Vim
+*.swp
+
+
